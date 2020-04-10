@@ -4,12 +4,12 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/brownio\_" target="_blank">
-    <img alt="Twitter: brownio\_" src="https://img.shields.io/twitter/follow/brownio\_.svg?style=social" />
+  <a href="https://twitter.com/brownio_" target="_blank">
+    <img alt="Twitter: brownio_" src="https://img.shields.io/twitter/follow/brownio_.svg?style=social" />
   </a>
 </p>
 
-> A bot used in Twitter to decide which character is the best within a hundred of them for a videogame
+> This bot will create polls inside Twitter to decide which villager from a specific video-game is the best among them all. No violence, worry not.
 
 ### 🏠 [Homepage](www.djigo.dev)
 
@@ -18,7 +18,7 @@
 👤 **Antonio Djigo**
 
 * Website: https://www.djigo.dev/
-* Twitter: [@brownio\_](https://twitter.com/brownio\_)
+* Twitter: [@brownio_](https://twitter.com/brownio_)
 * Github: [@djigoio](https://github.com/djigoio)
 
 ## Show your support
