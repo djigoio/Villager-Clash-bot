@@ -22,29 +22,23 @@ import (
 	"villagertournamentbot/webhook"
 
 	"github.com/gorilla/mux"
-	"github.com/joho/godotenv"
 )
 
 func main() {
 
 	m := mux.NewRouter()
-	err := godotenv.Load()
-
-	if err != nil {
-		println("Error loading .env file")
-	}
 
 	println("Starting ACNH Clash server...")
 
 	m.HandleFunc("/", func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(200)
-		fmt.Fprintf(writer, "Server is up and running")
+		fmt.Fprintf(w, "Server is up and running")
 	})
 
 	//Listen to crc check and handle
-	m.HandleFunc("/webhook/twitter", CrcCheck).Methods("GET")
+	m.HandleFunc("/webhook/twitter", crc.Check).Methods("GET")
 	//Listen to webhook event and handle
-	m.HandleFunc("/twitter/webhook", WebhookHandler).Methods("POST")
+	m.HandleFunc("/twitter/webhook", webhook.Handler).Methods("POST")
 
 	//Start Server
 	server := &http.Server{

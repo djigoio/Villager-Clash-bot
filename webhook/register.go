@@ -6,11 +6,12 @@ import (
 	"io/ioutil"
 	"net/url"
 	"os"
+	"villagertournamentbot/client"
 )
 
 func registerWebhook() {
 	fmt.Println("Registering webhook...")
-	httpClient := CreateClient()
+	httpClient := client.Create()
 
 	//Set parameters
 	path := "https://api.twitter.com/1.1/account_activity/all/" + os.Getenv("WEBHOOK_ENV") + "/webhooks.json"

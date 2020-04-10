@@ -4,11 +4,12 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"villagertournamentbot/client"
 )
 
-func subscribeWebhook() {
+func subscribe() {
 	fmt.Println("Subscribing webapp...")
-	client := CreateClient()
+	client := client.Create()
 	path := "https://api.twitter.com/1.1/account_activity/all/" + os.Getenv("WEBHOOK_ENV") + "/subscriptions.json"
 	resp, _ := client.PostForm(path, nil)
 	body, _ := ioutil.ReadAll(resp.Body)

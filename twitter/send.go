@@ -4,11 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"net/http"
 	"net/url"
-	"os"
-
-	"github.com/dghubble/oauth1"
+	"villagertournamentbot/client"
 )
 
 //Struct to parse tweet
@@ -18,15 +15,7 @@ type Tweet struct {
 	Text  string
 }
 
-func CreateClient() *http.Client {
-	//Create oauth client with consumer keys and access token
-	config := oauth1.NewConfig(os.Getenv("CONSUMER_KEY"), os.Getenv("CONSUMER_SECRET"))
-	token := oauth1.NewToken(os.Getenv("ACCESS_TOKEN_KEY"), os.Getenv("ACCESS_TOKEN_SECRET"))
-
-	return config.Client(oauth1.NoContext, token)
-}
-
-func SendTweet(tweet string, reply_id string) (*Tweet, error) {
+func Send(tweet string, reply_id string) (*Tweet, error) {
 	fmt.Println("Sending tweet as reply to " + reply_id)
 	//Initialize tweet object to store response in
 	var responseTweet Tweet
@@ -35,7 +24,7 @@ func SendTweet(tweet string, reply_id string) (*Tweet, error) {
 	params.Set("status", tweet)
 	params.Set("in_reply_to_status_id", reply_id)
 	//Grab client and post
-	client := CreateClient()
+	client := client.Create()
 	resp, err := client.PostForm("https://api.twitter.com/1.1/statuses/update.json", params)
 	if err != nil {
 		return nil, err

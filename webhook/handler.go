@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"villagertournamentbot/twitter"
 )
 
 func Handler(writer http.ResponseWriter, request *http.Request) {
@@ -23,7 +24,7 @@ func Handler(writer http.ResponseWriter, request *http.Request) {
 	}
 	//Send Hello world as a reply to the tweet, replies need to begin with the handles
 	//of accounts they are replying to
-	_, err = SendTweet("@"+load.TweetCreateEvent[0].User.Handle+" Hello World", load.TweetCreateEvent[0].IdStr)
+	_, err = twitter.Send("@"+load.TweetCreateEvent[0].User.Handle+" Hello World", load.TweetCreateEvent[0].IdStr)
 	if err != nil {
 		fmt.Println("An error occured:")
 		fmt.Println(err.Error())
