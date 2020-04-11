@@ -29,5 +29,5 @@ func registerWebhook() {
 	}
 	fmt.Println(data)
 	fmt.Println("Webhook id of " + data["id"].(string) + " has been registered")
-	subscribeWebhook()
+	subscribe()
 }
