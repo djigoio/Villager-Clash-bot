@@ -1,1192 +1,1984 @@
 {
     "villagers": [
         {
-            "name": "Admiral"
+            "name": "Admiral",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Agent S"
+            "name": "Agent S",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Agnes"
+            "name": "Agnes",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Al"
+            "name": "Al",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": " Alfonso"
+            "name": " Alfonso",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Alice "
+            "name": "Alice ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Alli"
+            "name": "Alli",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Amelia "
+            "name": "Amelia ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Anabelle"
+            "name": "Anabelle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Anchovy "
+            "name": "Anchovy ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ankha "
+            "name": "Ankha ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Angus "
+            "name": "Angus ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Anicotti "
+            "name": "Anicotti ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Annalisa "
+            "name": "Annalisa ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Annalise"
+            "name": "Annalise",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Antonio"
+            "name": "Antonio",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Apollo"
+            "name": "Apollo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Apple"
+            "name": "Apple",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Astrid"
+            "name": "Astrid",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Audie"
+            "name": "Audie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Aurora"
+            "name": "Aurora",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ava"
+            "name": "Ava",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Avery"
+            "name": "Avery",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Axel"
+            "name": "Axel",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Baabara"
+            "name": "Baabara",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bam"
+            "name": "Bam",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bangle"
+            "name": "Bangle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Barold"
+            "name": "Barold",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Beau"
+            "name": "Beau",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bea"
+            "name": "Bea",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Beardo"
+            "name": "Beardo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Becky"
+            "name": "Becky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bella"
+            "name": "Bella",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Benedict"
+            "name": "Benedict",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Benjamin"
+            "name": "Benjamin",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bertha"
+            "name": "Bertha",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bettina"
+            "name": "Bettina",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bianca"
+            "name": "Bianca",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Biff"
+            "name": "Biff",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Big"
+            "name": "Big",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Top"
+            "name": "Top",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bill"
+            "name": "Bill",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Billy"
+            "name": "Billy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Biskit"
+            "name": "Biskit",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bitty"
+            "name": "Bitty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Blaire"
+            "name": "Blaire",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Blanche"
+            "name": "Blanche",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bluebear"
+            "name": "Bluebear",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bob"
+            "name": "Bob",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bonbon"
+            "name": "Bonbon",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bones"
+            "name": "Bones",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Boomer"
+            "name": "Boomer",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Boone"
+            "name": "Boone",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Boots"
+            "name": "Boots",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Boris"
+            "name": "Boris",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Boyd"
+            "name": "Boyd",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bree"
+            "name": "Bree",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Broccolo"
+            "name": "Broccolo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bruce"
+            "name": "Bruce",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Broffina"
+            "name": "Broffina",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bubbles"
+            "name": "Bubbles",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Buck"
+            "name": "Buck",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bud"
+            "name": "Bud",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Bunnie"
+            "name": "Bunnie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Butch"
+            "name": "Butch",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Buzz"
+            "name": "Buzz",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cally"
+            "name": "Cally",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Camofrog"
+            "name": "Camofrog",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Canberra"
+            "name": "Canberra",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Candi"
+            "name": "Candi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Carmen"
+            "name": "Carmen",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Caroline"
+            "name": "Caroline",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Carrie"
+            "name": "Carrie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cashmere"
+            "name": "Cashmere",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Celia"
+            "name": "Celia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cesar"
+            "name": "Cesar",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chadder"
+            "name": "Chadder",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Charlise"
+            "name": "Charlise",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cheri"
+            "name": "Cheri",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cherry"
+            "name": "Cherry",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chester"
+            "name": "Chester",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chevre"
+            "name": "Chevre",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chief"
+            "name": "Chief",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chops"
+            "name": "Chops",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chow"
+            "name": "Chow",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Chrissy"
+            "name": "Chrissy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Claude"
+            "name": "Claude",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Claudia"
+            "name": "Claudia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Clay"
+            "name": "Clay",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cleo"
+            "name": "Cleo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Clyde"
+            "name": "Clyde",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Coach"
+            "name": "Coach",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cobb"
+            "name": "Cobb",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Coco"
+            "name": "Coco",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cole"
+            "name": "Cole",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Colton"
+            "name": "Colton",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cookie"
+            "name": "Cookie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cousteau"
+            "name": "Cousteau",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cranston"
+            "name": "Cranston",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Croque"
+            "name": "Croque",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cube"
+            "name": "Cube",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Curlos"
+            "name": "Curlos",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Curly"
+            "name": "Curly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Curt"
+            "name": "Curt",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cyd"
+            "name": "Cyd",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cyrano"
+            "name": "Cyrano",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Daisy"
+            "name": "Daisy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Deena"
+            "name": "Deena",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Deirdre"
+            "name": "Deirdre",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Del"
+            "name": "Del",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Deli"
+            "name": "Deli",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Derwin"
+            "name": "Derwin",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Diana"
+            "name": "Diana",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Diva"
+            "name": "Diva",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Dizzy"
+            "name": "Dizzy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Dobie"
+            "name": "Dobie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Doc"
+            "name": "Doc",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Dom"
+            "name": "Dom",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Dora"
+            "name": "Dora",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Dotty"
+            "name": "Dotty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Drago"
+            "name": "Drago",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Drake"
+            "name": "Drake",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Drift"
+            "name": "Drift",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ed"
+            "name": "Ed",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Egbert"
+            "name": "Egbert",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Elise"
+            "name": "Elise",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ellie"
+            "name": "Ellie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Elmer"
+            "name": "Elmer",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Eloise"
+            "name": "Eloise",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Elvis"
+            "name": "Elvis",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Erik"
+            "name": "Erik",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Eunice"
+            "name": "Eunice",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Eugene"
+            "name": "Eugene",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Fang"
+            "name": "Fang",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Fauna"
+            "name": "Fauna",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Felicity"
+            "name": "Felicity",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Filbert"
+            "name": "Filbert",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Flip"
+            "name": "Flip",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Flo"
+            "name": "Flo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Flora"
+            "name": "Flora",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Flurry"
+            "name": "Flurry",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Francine"
+            "name": "Francine",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Frank"
+            "name": "Frank",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Freckles"
+            "name": "Freckles",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Freya"
+            "name": "Freya",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Friga"
+            "name": "Friga",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Frita"
+            "name": "Frita",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Frobert"
+            "name": "Frobert",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Fuchsia"
+            "name": "Fuchsia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gabi"
+            "name": "Gabi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gala"
+            "name": "Gala",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gaston"
+            "name": "Gaston",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gayle"
+            "name": "Gayle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Genji"
+            "name": "Genji",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gigi"
+            "name": "Gigi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gladys"
+            "name": "Gladys",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gloria"
+            "name": "Gloria",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Goldie"
+            "name": "Goldie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gonzo"
+            "name": "Gonzo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Goose"
+            "name": "Goose",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Graham"
+            "name": "Graham",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Greta"
+            "name": "Greta",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Grizzly"
+            "name": "Grizzly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Groucho"
+            "name": "Groucho",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gruff"
+            "name": "Gruff",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Gwen"
+            "name": "Gwen",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hamlet"
+            "name": "Hamlet",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hamphrey"
+            "name": "Hamphrey",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hans"
+            "name": "Hans",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Harry"
+            "name": "Harry",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hazel"
+            "name": "Hazel",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Henry"
+            "name": "Henry",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hippeux"
+            "name": "Hippeux",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hopkins"
+            "name": "Hopkins",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hopper"
+            "name": "Hopper",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hornsby"
+            "name": "Hornsby",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Huck"
+            "name": "Huck",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Hugh"
+            "name": "Hugh",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Iggly"
+            "name": "Iggly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ike"
+            "name": "Ike",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jacob"
+            "name": "Jacob",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jakey"
+            "name": "Jakey",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jacques"
+            "name": "Jacques",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jambette"
+            "name": "Jambette",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jay"
+            "name": "Jay",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jeremiah"
+            "name": "Jeremiah",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Jitters"
+            "name": "Jitters",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Joey"
+            "name": "Joey",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Judy"
+            "name": "Judy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Julia"
+            "name": "Julia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Julian"
+            "name": "Julian",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "June"
+            "name": "June",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kabuki"
+            "name": "Kabuki",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Katt"
+            "name": "Katt",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Keaton"
+            "name": "Keaton",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ken"
+            "name": "Ken",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ketchup"
+            "name": "Ketchup",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kevin"
+            "name": "Kevin",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kid "
+            "name": "Kid ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Cat"
+            "name": "Cat",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kidd"
+            "name": "Kidd",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kiki"
+            "name": "Kiki",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kitt"
+            "name": "Kitt",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kitty"
+            "name": "Kitty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Klaus"
+            "name": "Klaus",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Knox"
+            "name": "Knox",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kody"
+            "name": "Kody",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Kyle"
+            "name": "Kyle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Leonardo"
+            "name": "Leonardo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Leopold"
+            "name": "Leopold",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lily"
+            "name": "Lily",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Limberg"
+            "name": "Limberg",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lionel"
+            "name": "Lionel",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lobo"
+            "name": "Lobo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lolly"
+            "name": "Lolly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lopez"
+            "name": "Lopez",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Louie"
+            "name": "Louie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lucha"
+            "name": "Lucha",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lucky"
+            "name": "Lucky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lucy"
+            "name": "Lucy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Lyman"
+            "name": "Lyman",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mac"
+            "name": "Mac",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Maddie"
+            "name": "Maddie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Maelle"
+            "name": "Maelle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Maggie"
+            "name": "Maggie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mallary"
+            "name": "Mallary",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Maple"
+            "name": "Maple",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Margie"
+            "name": "Margie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Marcel"
+            "name": "Marcel",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Marcie"
+            "name": "Marcie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Marina"
+            "name": "Marina",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Marshal"
+            "name": "Marshal",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mathilda"
+            "name": "Mathilda",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Megan"
+            "name": "Megan",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Melba"
+            "name": "Melba",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Merengue"
+            "name": "Merengue",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Merry"
+            "name": "Merry",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Midge"
+            "name": "Midge",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mint"
+            "name": "Mint",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mira"
+            "name": "Mira",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Miranda"
+            "name": "Miranda",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mitzi"
+            "name": "Mitzi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Moe"
+            "name": "Moe",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Molly"
+            "name": "Molly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Monique"
+            "name": "Monique",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Monty"
+            "name": "Monty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Moose"
+            "name": "Moose",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Mott"
+            "name": "Mott",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Muffy"
+            "name": "Muffy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Murphy"
+            "name": "Murphy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Nan"
+            "name": "Nan",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Nana"
+            "name": "Nana",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Naomi"
+            "name": "Naomi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Nate"
+            "name": "Nate",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Nibbles"
+            "name": "Nibbles",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Norma"
+            "name": "Norma",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Octavian"
+            "name": "Octavian",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "O'Hare"
+            "name": "O'Hare",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Olaf"
+            "name": "Olaf",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Olive"
+            "name": "Olive",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Olivia"
+            "name": "Olivia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Opal"
+            "name": "Opal",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ozzie"
+            "name": "Ozzie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pancetti"
+            "name": "Pancetti",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pango"
+            "name": "Pango",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Papi"
+            "name": "Papi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Paolo"
+            "name": "Paolo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pashmina"
+            "name": "Pashmina",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pate"
+            "name": "Pate",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Patty"
+            "name": "Patty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Paula"
+            "name": "Paula",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Peaches"
+            "name": "Peaches",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Peanut"
+            "name": "Peanut",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pecan"
+            "name": "Pecan",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Peck"
+            "name": "Peck",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Peewee"
+            "name": "Peewee",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Peggy"
+            "name": "Peggy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pekoe"
+            "name": "Pekoe",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Penelope"
+            "name": "Penelope",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Phil"
+            "name": "Phil",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Phoebe"
+            "name": "Phoebe",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pierce"
+            "name": "Pierce",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pietro"
+            "name": "Pietro",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pinky"
+            "name": "Pinky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Piper"
+            "name": "Piper",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pippy"
+            "name": "Pippy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Plucky"
+            "name": "Plucky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pompom"
+            "name": "Pompom",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Poncho"
+            "name": "Poncho",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Poppy"
+            "name": "Poppy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Portia"
+            "name": "Portia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Prince"
+            "name": "Prince",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Puck"
+            "name": "Puck",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Puddles"
+            "name": "Puddles",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Pudge"
+            "name": "Pudge",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Punchy"
+            "name": "Punchy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Purrl"
+            "name": "Purrl",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Queenie"
+            "name": "Queenie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Quillson"
+            "name": "Quillson",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Raddle"
+            "name": "Raddle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rasher"
+            "name": "Rasher",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Raymond"
+            "name": "Raymond",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Renée"
+            "name": "Renée",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Reneigh"
+            "name": "Reneigh",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rex"
+            "name": "Rex",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rhonda"
+            "name": "Rhonda",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ribbot"
+            "name": "Ribbot",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ricky"
+            "name": "Ricky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rizzo"
+            "name": "Rizzo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Roald"
+            "name": "Roald",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Robin"
+            "name": "Robin",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rocco"
+            "name": "Rocco",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rocket"
+            "name": "Rocket",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rod"
+            "name": "Rod",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rodeo"
+            "name": "Rodeo",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rodney"
+            "name": "Rodney",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rolf"
+            "name": "Rolf",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rooney"
+            "name": "Rooney",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rory"
+            "name": "Rory",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Roscoe"
+            "name": "Roscoe",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rosie"
+            "name": "Rosie",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rowan"
+            "name": "Rowan",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ruby"
+            "name": "Ruby",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Rudy"
+            "name": "Rudy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sally"
+            "name": "Sally",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Samson"
+            "name": "Samson",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sandy"
+            "name": "Sandy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Savannah"
+            "name": "Savannah",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Scoot"
+            "name": "Scoot",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Shari"
+            "name": "Shari",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sheldon"
+            "name": "Sheldon",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Shep"
+            "name": "Shep",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sherb"
+            "name": "Sherb",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Simon"
+            "name": "Simon",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Skye"
+            "name": "Skye",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sly"
+            "name": "Sly",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Snake"
+            "name": "Snake",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Snooty"
+            "name": "Snooty",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Soleil"
+            "name": "Soleil",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sparro"
+            "name": "Sparro",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Spike"
+            "name": "Spike",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Spork"
+            "name": "Spork",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Crackle"
+            "name": "Crackle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sprinkle"
+            "name": "Sprinkle",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sprocket"
+            "name": "Sprocket",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Static"
+            "name": "Static",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Stella"
+            "name": "Stella",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sterling"
+            "name": "Sterling",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Stinky"
+            "name": "Stinky",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Stitches"
+            "name": "Stitches",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Stu"
+            "name": "Stu",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sydney"
+            "name": "Sydney",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sylvana"
+            "name": "Sylvana",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Sylvia"
+            "name": "Sylvia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tabby"
+            "name": "Tabby",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tad"
+            "name": "Tad",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tammi"
+            "name": "Tammi",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tammy"
+            "name": "Tammy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tangy"
+            "name": "Tangy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tank"
+            "name": "Tank",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "T-Bone"
+            "name": "T-Bone",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": ""
+            "name": "",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tasha"
+            "name": "Tasha",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Teddy"
+            "name": "Teddy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tex"
+            "name": "Tex",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tia"
+            "name": "Tia",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tiffany"
+            "name": "Tiffany",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Timbra"
+            "name": "Timbra",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tipper"
+            "name": "Tipper",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tom"
+            "name": "Tom",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Truffles"
+            "name": "Truffles",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tucker"
+            "name": "Tucker",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tutu"
+            "name": "Tutu",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Twiggy"
+            "name": "Twiggy",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Tybalt"
+            "name": "Tybalt",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Ursala"
+            "name": "Ursala",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Velma"
+            "name": "Velma",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Vesta"
+            "name": "Vesta",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Vic"
+            "name": "Vic",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Victoria"
+            "name": "Victoria",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Violet "
+            "name": "Violet ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Vivian "
+            "name": "Vivian ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Vladimir "
+            "name": "Vladimir ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Wade "
+            "name": "Wade ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Walker "
+            "name": "Walker ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Walt"
+            "name": "Walt",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Wart Jr"
+            "name": "Wart Jr",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Weber "
+            "name": "Weber ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Wendy "
+            "name": "Wendy ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Winnie "
+            "name": "Winnie ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Whitney "
+            "name": "Whitney ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Willow "
+            "name": "Willow ",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Wolfgang"
+            "name": "Wolfgang",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Yuka"
+            "name": "Yuka",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Zell"
+            "name": "Zell",
+            "photo": "",
+            "alive": true
         },
         {
-            "name": "Zucker"
+            "name": "Zucker",
+            "photo": "",
+            "alive": true
         }
     ]
 }
