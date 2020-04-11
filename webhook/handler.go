@@ -8,6 +8,17 @@ import (
 	"villagertournamentbot/twitter"
 )
 
+type Tweet struct {
+	Id    int64
+	IdStr string `json:"id_str"`
+	Text  string
+}
+
+type WebhookLoad struct {
+	UserId           string  `json:"for_user_id"`
+	TweetCreateEvent []Tweet `json:"tweet_create_events"`
+}
+
 func Handler(writer http.ResponseWriter, request *http.Request) {
 	fmt.Println("Handler called")
 	//Read the body of the tweet
