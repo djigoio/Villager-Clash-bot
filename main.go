@@ -26,6 +26,8 @@ import (
 
 func main() {
 
+	// var weapons = []string{"kiss", "smash", "punch", "kicks", "use a Sea bass to smack", "throws a bag of berries at", "throws a pear at", "throws a taratula at", "throws a scorpion at", "sits on a wasp"}
+
 	m := mux.NewRouter()
 
 	println("Starting ACNH Clash server...")
@@ -47,6 +49,6 @@ func main() {
 	server.Addr = ":8080"
 	server.ListenAndServe()
 
-	webhook.Handler()
-	crc.Check()
+	//webhook.Handler()
+	//crc.Check()
 }
