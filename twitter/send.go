@@ -16,7 +16,6 @@ type Tweet struct {
 }
 
 func Send(tweet string, reply_id string) (*Tweet, error) {
-	fmt.Println("Sending tweet as reply to " + reply_id)
 	//Initialize tweet object to store response in
 	var responseTweet Tweet
 	//Add params

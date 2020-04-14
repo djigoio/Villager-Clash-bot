@@ -35,7 +35,7 @@ func randomVillagerNumber(villagers Villagers) int {
 		}
 	}
 }
-func getRandomVillager() Villager {
+func GetRandomVillager() Villager {
 	var villagers Villagers
 	var selectedVillager Villager
 
@@ -48,8 +48,8 @@ func getRandomVillager() Villager {
 }
 func makeVillagersFight(villager Villager, villager2 Villager) {
 
-	firstContestant := getRandomVillager()
-	secondContestant := getRandomVillager()
+	firstContestant := GetRandomVillager()
+	secondContestant := GetRandomVillager()
 
 	println(firstContestant.name + " getWeapon + getPhrase" + secondContestant.name)
 
@@ -57,12 +57,12 @@ func makeVillagersFight(villager Villager, villager2 Villager) {
 
 	switch winnerNumber {
 	case 1:
-		makeVillagerLose(villager2)
-		makeVillagerWin()
+		villager.Win()
+		villager2.Lose()
 		break
 	case 2:
-		makeVillagerLose(villager)
-		makeVillagerWin()
+		villager.Lose()
+		villager2.Win()
 	default:
 		villagerKillsItself()
 	}
@@ -70,12 +70,12 @@ func makeVillagersFight(villager Villager, villager2 Villager) {
 	// sendTweet winner.name weapon.random loser.name and makes loser.name leave the island :(
 	//loser.alive = false
 }
-func makeVillagerWin() {
+func (v *Villager) Win() {
 	// sendTweet Villager.name has won the Island clash!
 }
-func makeVillagerLose(villager Villager) {
+func (v *Villager) Lose() {
 	//write json, look for villager,then change alive property
-	villager.alive = false
+	v.alive = false
 }
 func villagerKillsItself() {
 	//loser.suicide
